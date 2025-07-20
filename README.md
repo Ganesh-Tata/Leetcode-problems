@@ -1,1 +1,9 @@
-# leetcode-problems
+leetcode-python/
+├── Arrays/
+│   ├── two_sum.py
+│   └── ...
+├── Strings/
+│   ├── valid_palindrome.py
+│   └── ...
+├── ...
+└── README.md
